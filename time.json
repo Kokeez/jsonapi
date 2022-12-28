@@ -1,0 +1,74 @@
+{
+    "input": {},
+    "lang": "es",
+    "page": 0,
+    "page_size": 0,
+    "results": {
+        "stats": [
+            {
+                "time_elapsed": "29965.23",
+                "usr_fname": "Cancino",
+                "usr_id": 10,
+                "usr_lname": "Lastra",
+                "usr_name": "Thomas"
+            },
+            {
+                "time_elapsed": "10109.33",
+                "usr_fname": "Pinto",
+                "usr_id": 7,
+                "usr_lname": "Espinosa",
+                "usr_name": "Ignacio"
+            },
+            {
+                "time_elapsed": "6507.11",
+                "usr_fname": "Arriagada",
+                "usr_id": 8,
+                "usr_lname": "Del Solar",
+                "usr_name": "Rafael"
+            },
+            {
+                "time_elapsed": "4674.15",
+                "usr_fname": "Abarca",
+                "usr_id": 16,
+                "usr_lname": "Galvez",
+                "usr_name": "Nicolas"
+            },
+            {
+                "time_elapsed": "669.46",
+                "usr_fname": "Alpha",
+                "usr_id": 13,
+                "usr_lname": "Nova",
+                "usr_name": "System"
+            },
+            {
+                "time_elapsed": "129.00",
+                "usr_fname": "Pascal",
+                "usr_id": 11,
+                "usr_lname": "Balmaceda",
+                "usr_name": "Pedro"
+            },
+            {
+                "time_elapsed": "2.82",
+                "usr_fname": "Arriagada",
+                "usr_id": 2,
+                "usr_lname": "Del Solar",
+                "usr_name": "Rafael"
+            },
+            {
+                "time_elapsed": "1.18",
+                "usr_fname": "Procesos",
+                "usr_id": 14,
+                "usr_lname": "Automaticos",
+                "usr_name": "System"
+            }
+        ]
+    },
+    "status": {
+        "code": 0,
+        "elapsed": 5.998493671417236,
+        "finished": 1672075188.2066834,
+        "message": "",
+        "page_count": 0,
+        "started": 1672075182.2081897
+    }
+}
